@@ -69,6 +69,7 @@ class Environment(Circle):
         for it in range(time_steps):
             # TODO: define a process to run process()
             # history[it] = self.get_status()
+            pass
         pass
             
     def get_history(self):
